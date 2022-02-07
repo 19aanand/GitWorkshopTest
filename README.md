@@ -1,5 +1,5 @@
 # GitWorkshopTest
-A test repository for the Git workshop. 
+A test repository for the Git workshop in prep for HopperHacks.
 
 
 # Name: Adit Anand
